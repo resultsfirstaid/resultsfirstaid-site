@@ -1,6 +1,6 @@
 # Results First Aid — public training website starter
 
-A complete static multi-page website, designed for Cloudflare Pages. No build process is required.
+A complete static multi-page website, designed for Cloudflare Pages. No build process is required. 
 
 ## Deploy
 
